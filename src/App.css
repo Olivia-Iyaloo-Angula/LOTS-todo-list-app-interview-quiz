@@ -1,0 +1,26 @@
+
+
+body {
+  background-color:aliceblue;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Set the height of the container to the viewport height */
+}
+
+.form-container {
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
+button{
+  background-color:aliceblue;
+  align-items: center;
+
+}
